@@ -1,0 +1,6 @@
+[submodule "Luos"]
+	path = Luos
+	url = git@github.com:Foupi/Luos_NRF.git
+[submodule "LuosHAL"]
+	path = LuosHAL
+	url = git@github.com:Foupi/LuosHAL_NRF.git
